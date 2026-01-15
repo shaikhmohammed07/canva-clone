@@ -165,7 +165,7 @@
                 <span class="ps-5"><a href="canva-login.php"><button class="btn btn-light font-montserrat" style="width: 220px;height :38px; font-size: 13px"><b>Sign up and start designing</b></button></a></span>
             </div>
             <div class="col-md-6">
-                <video class="vid-main" src="" width="633.2" height="360.3" poster="images/poster.jpg" style="margin-top: 60px;" controls></video>
+                <video class="vid-main" src="images/AI-6.mp4" width="633.2" height="360.3" poster="images/poster.jpg" style="margin-top: 60px;" controls></video>
             </div>
         </div>
         <div class="">
@@ -811,4 +811,5 @@ btnLeft.addEventListener("click", () => {
 </script>
 </body>
 </html>
+
 
