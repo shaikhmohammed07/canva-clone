@@ -1,0 +1,36 @@
+/* =========================
+   GOOGLE FONTS
+========================= */
+@import url('https://fonts.googleapis.com/css2?family=Sansita:wght@400;600&family=Inter:wght@400;500;600&family=Montserrat:wght@500;700&display=swap');
+
+/* =========================
+   GLOBAL FONT
+========================= */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* =========================
+   FONT CLASSES
+========================= */
+.font-sansita {
+    font-family: 'Sansita', sans-serif;
+}
+
+.font-inter {
+    font-family: 'Inter', sans-serif;
+}
+
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-bold {
+    font-weight: 600;
+}
+/* .font-bold-1{
+        font-family: "Sansita", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    } */
